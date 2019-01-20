@@ -1,2 +1,2 @@
-# MTCC-pytorch
+# MTCNN-pytorch
 MTCNN with pytorch
